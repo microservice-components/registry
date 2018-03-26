@@ -1,4 +1,4 @@
-package io.github.microservice.registry
+package io.github.microservice.components.registry
 
 import org.junit.Test
 import org.junit.runner.RunWith
